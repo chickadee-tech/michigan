@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name michigan)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/michigan.pretty)(options "")(descr ""))
+  (lib (name adafruit)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/adafruit.pretty)(options "")(descr ""))
+  (lib (name Connector_DebugEdge)(type KiCad)(uri /home/tannewt/repos/debug-edge/DebugEdge/Connector_DebugEdge.pretty)(options "")(descr ""))
+  (lib (name chickadee)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/chickadee.pretty)(options "")(descr ""))
+)
